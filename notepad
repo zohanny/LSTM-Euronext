@@ -1,0 +1,12 @@
+Test i11 - end 1-2-2023
+==================================
+Test Score: 43.37 RMSE
+==================================
+
+==================================
+Test Score Day before: 42.33 RMSE
+==================================
+---------------------------------------------------------
+
+Test i12 - end 1-2-2023
+(The weekday instead obeing a time series is '0s' all the way and only the last day before the predictions is informed' )
