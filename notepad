@@ -10,3 +10,14 @@ Test Score Day before: 42.33 RMSE
 
 Test i12 - end 1-2-2023
 (The weekday instead obeing a time series is '0s' all the way and only the last day before the predictions is informed' )
+
+==================================
+Test Score: 42.18 RMSE
+==================================
+
+Test i13 - end 1-2-2023
+(All weekdays ara 0's)
+
+
+---> Incluir os dias da semana,  não altera previsão.
+---> TODO: Continuar com ONE HOT ENCODE
