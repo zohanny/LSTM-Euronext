@@ -18,6 +18,12 @@ Test Score: 42.18 RMSE
 Test i13 - end 1-2-2023
 (All weekdays ara 0's)
 
-
 ---> Incluir os dias da semana,  não altera previsão.
+
 ---> TODO: Continuar com ONE HOT ENCODE
+Teste i14 end 1-2-2023
+(Weekdays are One Hot encoded)
+
+==================================
+Test Score: 44.89 RMSE
+==================================
