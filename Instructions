@@ -1,0 +1,12 @@
+==For Running Simple daily model==
+
+1) Adjust the parameters in the "Model Parameters"
+2) Run all the cells before the "Running the model" section (defining functions)
+3) Run all the commands in the "Linear Univariate model" (Define andTrain the model)
+4) Run the Prediction / Plotting def functions under "Predictions" 
+
+
+
+
+
+
